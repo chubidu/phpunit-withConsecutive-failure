@@ -1,6 +1,6 @@
 <?php
 
-namespace App\Example;
+namespace Example;
 
 class MyMessage
 {

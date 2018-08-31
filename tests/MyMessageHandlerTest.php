@@ -1,12 +1,12 @@
 <?php
 
-namespace App\Tests\Unit\Example;
+namespace Tests\Example;
 
-use App\Example\MyMessage;
-use App\Example\MyMessageHandler;
-use App\Example\Repository;
+use Example\MyMessage;
+use Example\MyMessageHandler;
+use Example\ParameterBag;
+use Example\Repository;
 use PHPUnit\Framework\TestCase;
-use Symfony\Component\HttpFoundation\ParameterBag;
 
 class MyMessageHandlerTest extends TestCase
 {
